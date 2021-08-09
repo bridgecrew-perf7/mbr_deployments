@@ -18,6 +18,6 @@ spec:
         resources:
           limits:
             memory: 4Gi
-            cpu: 4
+            cpu: 2
         ports:
         - containerPort: 5000
